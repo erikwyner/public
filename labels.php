@@ -1,3 +1,4 @@
+boo
 <?php
 require '../functions/connect.php';
 require '../functions/meta.html';
